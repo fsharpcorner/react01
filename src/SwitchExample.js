@@ -19,7 +19,7 @@ const SwitchExample = () => {
         />
       </label>
       <p>
-        The switch is : <span>{checked ? "on" : "off"}</span>.
+        The switch is :  <span>{checked ? "on" : "off"}</span>.
       </p>
     </div>
   );
